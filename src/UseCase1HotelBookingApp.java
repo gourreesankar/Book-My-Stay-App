@@ -23,6 +23,6 @@ public class UseCase1HotelBookingApp {
         System.out.println("=================================");
 
         // Application end message
-        System.out.println("Application Started Successfully!");
+        System.out.println("UC1 completed successfully");;
     }
 }
